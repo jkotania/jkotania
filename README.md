@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Next.js, React, Node.js**
 
-- 📫 How to reach me **jankotania14@gmail.com**
+- 📫 How to reach me **jkotania14@gmail.com**
 
 - ⚡ Fun fact **I'm always open to learn more!**
 
