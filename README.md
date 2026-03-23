@@ -1,8 +1,6 @@
 <h1 align="center">Hi👋, I'm Jan Kotania</h1>
 <h3 align="center">A passionate full-stack developer from Poland</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jkotania" alt="jkotania" /></a> </p>
-
 - 🌱 I’m currently learning **Next.js, React, Node.js**
 
 - 📫 How to reach me **jkotania14@gmail.com**
