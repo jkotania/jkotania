@@ -1,11 +1,11 @@
 <h1 align="center">Hi👋, I'm Jan Kotania</h1>
 <h3 align="center">A passionate full-stack developer from Poland</h3>
 
-💻 Building apps and products with React, Next.js & Flutter
-🤖 Bridging AI and mobile — fine-tuning and integrating YOLO / computer vision models into production apps
-🌐 Portfolio: jkotania.pl
-📫 Reach me at jkotania14@gmail.com
-⚡ Fun fact **I'm always open to learn more!**
+-💻 Building apps and products with React, Next.js & Flutter
+-🤖 Bridging AI and mobile — fine-tuning and integrating YOLO / computer vision models into production apps
+-🌐 Portfolio: jkotania.pl
+-📫 Reach me at jkotania14@gmail.com
+-⚡ Fun fact **I'm always open to learn more!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
