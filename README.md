@@ -1,5 +1,5 @@
 <h1 align="center">Hi👋, I'm Jan Kotania</h1>
-<h3 align="center">A passionate full-stack developer from Poland</h3>
+<h3 align="center">Full-Stack Developer building web, mobile and AI-powered apps</h3>
 
 - 💻 Building apps and products with React, Next.js & Flutter
 - 🤖 Bridging AI and mobile, fine-tuning and integrating YOLO / computer vision models into production apps
